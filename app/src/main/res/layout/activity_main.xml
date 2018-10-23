@@ -61,7 +61,6 @@
         android:id="@+id/help"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:text="@string/help"
         app:layout_constraintStart_toStartOf="@+id/button"
